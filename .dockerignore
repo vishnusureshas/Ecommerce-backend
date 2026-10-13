@@ -1,0 +1,10 @@
+node_modules/
+.git/
+.env
+logs/
+coverage/
+tests/
+Dockerfile
+docker-compose.yml
+.dockerignore
+.DS_Store
